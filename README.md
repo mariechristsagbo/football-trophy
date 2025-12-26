@@ -1,5 +1,14 @@
-# Football Trophy 
+# Football Trophy
 
+
+## Structure du projet
+
+```│
+├── index.html          # Page principale du jeu
+├── style.css           # Styles et mise en page
+├── index.js            # Logique du jeu et interactions
+└── README.md           # Documentation
+```
 
 ## Instructions 
 
